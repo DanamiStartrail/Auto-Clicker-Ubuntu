@@ -36,7 +36,11 @@ This script requires the **X11 (Xorg)** display server to detect keyboard hotkey
 
 ## Usage
 1. Run the script from your terminal
-
+- **Copy the code**
+  ```bash
+  cd auto-clicker-ubuntu
+  source venv/bin/activate
+  python main.py
 2. Position your mouse cursor where you want to click
 3. Pres **C** to start/stop clicking
 4. Pres **E** to terminate the program
