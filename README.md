@@ -50,6 +50,12 @@ You can adjust the clicking speed by editing the **delay** variabel in **main.py
 * **delay = 0.1** (10 clicks per second)
 * **delay = 0.01** (100 clicks per seconds)
 
+## How to Acces the python program
+- Use this code:
+  ```bash
+  cd auto-clicker-ubuntu
+  nano main.py
+
 ## License
 Distributed under the MIT License. See LICENSE for more information
 
